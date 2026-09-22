@@ -4,9 +4,9 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Week_1/">
-    <Project Path="Week_1/Ex1/Ex1.vcxproj" />
-    <Project Path="Week_1/Ex2/Ex2.vcxproj" />
-    <Project Path="Week_1/Ex3/Ex3.vcxproj" />
-    <Project Path="Week_1/Ex4/Ex4.vcxproj" />
+    <Project Path="Week_1/Ex1/Ex1.vcxproj" Id="cf823476-7cba-4fe7-bfa4-095cf04165dd" />
+    <Project Path="Week_1/Ex2/Ex2.vcxproj" Id="230fddb3-dcd6-4ed8-ac0c-d93e4717e9d8" />
+    <Project Path="Week_1/Ex3/Ex3.vcxproj" Id="c678163e-5f26-4a44-a8f6-dae9b5d2ad54" />
+    <Project Path="Week_1/Ex4/Ex4.vcxproj" Id="c774b4b4-ab49-4dbd-8424-de168dddd71b" />
   </Folder>
 </Solution>
