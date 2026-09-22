@@ -9,4 +9,7 @@
     <Project Path="Week_1/Ex3/Ex3.vcxproj" Id="c678163e-5f26-4a44-a8f6-dae9b5d2ad54" />
     <Project Path="Week_1/Ex4/Ex4.vcxproj" Id="c774b4b4-ab49-4dbd-8424-de168dddd71b" />
   </Folder>
+  <Folder Name="/Week_2/">
+    <Project Path="Week_2/Ex1_Week2/Ex1_Week2.vcxproj" Id="64028975-0d34-45a7-b711-97602c437bb4" />
+  </Folder>
 </Solution>

@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{c774b4b4-ab49-4dbd-8424-de168dddd71b}</ProjectGuid>
-    <RootNamespace>Ex4</RootNamespace>
+    <ProjectGuid>{64028975-0d34-45a7-b711-97602c437bb4}</ProjectGuid>
+    <RootNamespace>Ex1Week2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Ex4_Week1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -140,11 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Ex4.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="myMap.h" />
-    <ClInclude Include="myPair.h" />
+    <ClCompile Include="Ex1_Week2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
